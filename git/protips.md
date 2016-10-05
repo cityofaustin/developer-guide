@@ -1,8 +1,9 @@
 ---
 layout: page
+title: ProTips
 ---
 
-## ProTips
+## Git ProTips
 
 ### Save time with aliases
 

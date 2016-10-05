@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Git Workflow
 ---
 
 ## Git and GitHub
@@ -73,11 +74,13 @@ If you’ve already pushed a branch before you rewrite its history, `git push` w
 Force pushing runs the risk of overwriting someone else’s commits, but you can mitigate this in two ways:
 
 * **Communicate with your teammates.** If you might not be the only person working on a branch, talk to each other before rewriting commits.
+
 * **Use `--force-with-lease` instead of `--force`.** The “with lease” option tells Git to check if the remote branch has changed since you last pulled. If it has, that’s a good sign that you may be overwriting someone else’s work.
 
 If you’re working from a local copy of a branch when it’s force pushed by someone else, you can usually replay your local commits on top of the new history with `git pull --rebase`.
 
 * [“--force considered harmful; understanding git's --force-with-lease” from the Atlassian Developers blog](#)
+
 * [“Recovering from Upstream Rebase” from Git Reference](https://git-scm.com/docs/git-rebase#_recovering_from_upstream_rebase)
 
 ### Merging pull requests

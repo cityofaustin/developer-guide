@@ -1,8 +1,9 @@
 ---
 layout: page
+title: Configuration
 ---
 
-## Configuration
+## Git Configuration
 
 ### Using your work email
 
