@@ -15,7 +15,7 @@ If you have an official email address, like your.name@austintexas.gov, configure
 
 ### Setting up your editor
 
-Never use the `-m` or `--message` option with `git commit`; use your text editor instead. You should also configure your editor to wrap text in commit messages; plugins are available for most editors.
+Use your text editor to draft and edit detailed commit messages, rather than the `-m` or `--message` options of `git commit`. You should also configure your editor to wrap text in commit messages; plugins are available for most editors.
 
 * [“Associating text editors with Git” from GitHub](https://help.github.com/articles/associating-text-editors-with-git/)
 * [“Git Integration” from the Atom Blog](http://blog.atom.io/2014/03/13/git-integration.html)
