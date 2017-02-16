@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Git Workflow
+layout: page
 ---
 
 ## Git and GitHub

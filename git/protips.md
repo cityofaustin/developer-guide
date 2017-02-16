@@ -1,6 +1,6 @@
 ---
-layout: page
 title: ProTips
+layout: page
 ---
 
 ## Git ProTips
