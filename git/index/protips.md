@@ -1,6 +1,6 @@
 ---
 title: ProTips
-position: 2
+position: 0
 layout: page
 ---
 
