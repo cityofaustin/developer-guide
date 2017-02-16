@@ -1,5 +1,6 @@
 ---
 title: Configuration
+position: 1
 layout: page
 ---
 
