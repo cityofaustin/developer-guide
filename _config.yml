@@ -2,6 +2,9 @@
 title: Developer Guide
 timezone: UTC
 collections:
+  git-workflow:
+    title: Git Workflow
+    output: true
   posts:
     title: Posts
     output: true
