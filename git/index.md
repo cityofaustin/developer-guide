@@ -1,6 +1,8 @@
 ---
 title: Git Workflow
 position: 1
+pages:
+- Testing
 layout: page
 ---
 
