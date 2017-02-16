@@ -1,5 +1,6 @@
 ---
 title: Git Workflow
+position: 1
 layout: page
 ---
 
